@@ -53,14 +53,15 @@ The model predicts: - **1 → High Risk** - **0 → Low Risk**
 
 ## 🛠️ Tech Stack
 
-  Component         Technology
-  ----------------- -----------------
-  Frontend          Streamlit
-  Backend           Python
-  ML Model          Scikit-Learn
-  Visualization     Plotly
-  Deployment        Streamlit Cloud
-  Version Control   Git & GitHub
+| Component        | Technology       |
+|------------------|------------------|
+| Frontend         | Streamlit        |
+| Backend          | Python           |
+| ML Model         | Scikit-Learn     |
+| Visualization    | Plotly           |
+| Deployment       | Streamlit Cloud  |
+| Version Control  | Git & GitHub     |
+
 
 ------------------------------------------------------------------------
 
