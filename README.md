@@ -28,19 +28,12 @@ score with visualizations.
 ## 📷 Screenshots
 
 ### 📌 Home / Landing Page
-
-![Screenshot 1](screenshots/Screenshot1.png)
-
-### 📌 Input Form
-
-![Screenshot 2](screenshots/Screenshot2.png)
+<img width="1900" height="810" alt="image" src="https://github.com/user-attachments/assets/e6f7e718-8518-46b8-a6bc-21af22353e9a" />
 
 ### 📌 Prediction Result & Gauge
+<img width="550" height="654" alt="image" src="https://github.com/user-attachments/assets/e9d6f560-8890-4be3-8d19-6a6a89df9cb9" />
+<img width="445" height="622" alt="image" src="https://github.com/user-attachments/assets/9c6b078e-785c-458b-bcad-a24258480bab" />
 
-![Screenshot 3](screenshots/Screenshot3.png)
-
-(Your uploaded screenshots should be stored in a folder named
-**screenshots/** inside the repo)
 
 ------------------------------------------------------------------------
 
