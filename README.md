@@ -1,6 +1,6 @@
 # ❤️ Heart & Stroke Disease Risk Predictor
 
-### Powered by Machine Learning \| Built with Streamlit
+### Built with Streamlit
 
 🔗 **Live Web App:**\
 👉 https://heartstroke.streamlit.app/
