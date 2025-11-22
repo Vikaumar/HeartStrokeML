@@ -37,7 +37,7 @@ score with visualizations.
 
 ------------------------------------------------------------------------
 
-## 🧠 Machine Learning Model Details
+## 🧠 ML Model Details
 
 -   Algorithm → **K-Nearest Neighbors (KNN)**
 -   Preprocessing → **StandardScaler**
