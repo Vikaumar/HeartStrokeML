@@ -14,7 +14,7 @@ score with visualizations.
 
 ## 🚀 Features
 
--   🖥️ **Beautiful & Organized UI** built with Streamlit\
+-   🖥️ **Beautiful & Organized UI** \
 -   🤖 **KNN-based ML model**\
 -   📊 **Risk Gauge Meter**\
 -   🔢 Handles all numeric & categorical inputs\
