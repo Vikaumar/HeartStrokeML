@@ -65,7 +65,7 @@ The model predicts: - **1 → High Risk** - **0 → Low Risk**
 
 ------------------------------------------------------------------------
 
-## 📦 Installation (Run Locally)
+## 📦 Installation
 
 ### 1️⃣ Clone the repository
 
