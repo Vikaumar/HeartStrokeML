@@ -27,7 +27,7 @@ score with visualizations.
 
 ## 📷 Screenshots
 
-### 📌 Home / Landing Page
+### 📌 Landing Page
 <img width="1900" height="810" alt="image" src="https://github.com/user-attachments/assets/e6f7e718-8518-46b8-a6bc-21af22353e9a" />
 
 ### 📌 Prediction Result & Gauge
